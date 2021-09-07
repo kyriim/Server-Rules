@@ -4,3 +4,4 @@ These are the server RULES
 This is just a test though
 Further changes will be shown here
 And here
+Test 1
